@@ -393,7 +393,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/maps\/c3oc.json#start_awareness-team}"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/c3oc.json#start_awareness-team"
                 }],
          "type":"tilelayer",
          "visible":true,
