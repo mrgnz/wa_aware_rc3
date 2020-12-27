@@ -81,7 +81,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<c3auti>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -99,7 +99,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<haecksen>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
